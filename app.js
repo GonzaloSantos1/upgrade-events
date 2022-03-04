@@ -3,7 +3,6 @@
 const clickBtn = document.querySelector('.btnToClick');
 const inputText = document.querySelector('.click');
 const inputFocus = document.querySelector('.focus');
-
 const inputInput = document.querySelector('.value');
 
 //---------------- EVENT LISTENERS
